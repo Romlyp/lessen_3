@@ -1,0 +1,56 @@
+body {
+    color: rgb(97, 97, 164);
+}
+
+.text,
+h1,
+h2 {
+    color: black;
+}
+
+
+
+.apple-info>.text p>span {
+    color: red;
+}
+
+.text__blue {
+    color: rgb(151, 138, 16);
+}
+
+.text__blue ul {
+    color: red;
+}
+
+.text__blue~ul {
+    color: blueviolet;
+}
+
+#watch+div {
+    color: olivedrab;
+}
+
+div.text {
+    color: rgb(42, 3, 9);
+}
+
+.apple-display>p>span {
+    color: red;
+}
+
+.iphone-info+div,
+.iphone-info>div {
+    color: red;
+}
+
+#airpods>.airpods-size {
+    color: brown;
+}
+
+.price {
+    color: black;
+}
+
+.price>ul>li>ul {
+    color: rgb(164, 90, 5);
+}
